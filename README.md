@@ -180,18 +180,18 @@ grep -v ' 0$'
 横軸 (何話目) - 縦軸 (消費スレ数)
 
 ## スイプリ (途中から)
-![](suite.png)
+![](img/suite.png)
 
 ## スマプリ
-![](smile.png)
+![](img/smile.png)
 
 ## ハピネスチャージ
-![](happiness.png)
+![](img/happiness.png)
 
 ## ドキドキ
-![](dokidoki.png)
+![](img/dokidoki.png)
 
-## プリンセス (未完)
-![](princess.png)
+## プリンセス (img/未完)
+![](img/princess.png)
 
 
